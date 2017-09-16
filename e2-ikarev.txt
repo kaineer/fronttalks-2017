@@ -1,0 +1,35 @@
+@ikarev -- google lighthouse
+
+(yandex.ru)
+
+mobile frontend
+
+
+Beacon API
+
+FontFaceOnload
+
+inline styles ans split bw blocks
+
+load tabs content asyncr
+
+separate suggest scripts
+
+---
+
+## lite yandex search
+
+new version w/o legacy
+
+no js libs
+
+optimal scripts load order
+
+service workers
+
+---
+
+special page for slow connection
+
+10k html
+
