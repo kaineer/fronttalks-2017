@@ -1,0 +1,58 @@
+@iadramelk -- Alexey Ivanov, evil martians
+
+webpack bundle inner structure and optimization
+
+Problems
+
+* multiple versions of underscore
+* moment.js with locals
+* strange polyfills
+* no tree shaking
+
+---
+
+* Too big bundle loads slow
+
+* DefinePlugin
+
+* UglifyJS, deadcode
+
+...
+
+---
+
+## CommonJS
+
+PROBLEM Loading from parent directory
+
+-- resolve.alias
+
+PROBLEM require with expression
+
+Context replacement plugin
+
+DefinePlugin
+
+process will be polyfilled
+
+## Dead code elimination with UglifyJS
+
+## ES6 modules
+
+1. Tree shaking
+2. Scope hoisting (ModuleConcatenationPlugin)
+3. Pure module (in separate webpack branch)
+
+## WebpackRuntimeAnalizer: why
+
+-----
+
+* create basic bundle
+* look into content
+* run analyser after adding libs
+
+
+
+
+
+http://bit.ly/2gSU8uw
