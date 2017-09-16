@@ -1,0 +1,32 @@
+@slobodan_
+
+About serverless
+
+buzzword
+
+* what is
+* is it good only for functions
+* how it works
+* platforms?
+* how it works with nodejs
+* ...
+
+---
+
+# what it is
+
+* platform as a service (PaaS)
+
+* serverless framework
+* claudia.js
+* amazon sam
+* apex ...
+
+claudia.com
+
+serverless.camp
+
+spa backend
+quick prototype
+
+http://bit.ly/fronttalks-serverless
