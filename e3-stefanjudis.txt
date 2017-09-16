@@ -26,4 +26,4 @@ ResizeObserver (chrome flag)
 
 Observables (in specs)
 
-ctfl.io/whatch-your-back-browser
+http://ctfl.io/whatch-your-back-browser
