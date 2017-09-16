@@ -1,0 +1,29 @@
+Stefan Judis
+
+@stefanjudis
+
+10ms per scrollhandler
+
+IntersectionObserver
+
++ no polling
++ browser works
+
+MutationObserver
+
+Navigation timing api
+
+Resource timing api
+
+User timing api
+
+PerformanceObserver (poor pollyfillable)
+
+Hero element timing
+Server timing
+
+ResizeObserver (chrome flag)
+
+Observables (in specs)
+
+ctfl.io/whatch-your-back-browser
