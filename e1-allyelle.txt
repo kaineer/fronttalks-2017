@@ -1,0 +1,96 @@
+@allyelle -- African field lessons
+
+inst of trop medicine
+
+data collecting
+
+logistics (what?)
+
+life-saving delivery
+
+kk$ vacines
+
+refrigerators
+
+unrel power
+
+heat sensitive
+
+
+underemployed car-drivers
+
+learning tools
+
+
+## practical tips
+
+* typical user
+
+** no typical user
+
+* typical device
+
+** lowend
+
+* charging phone is hard
+
+(health facility, f.e.)
+
+* connectivity is bad
+
+* > offline-friendly
+
+* speed is very low, latency is high
+
+* optimising
+
+** do not tie to blocking operations
+** ...
+
+* charging is slow
+
+* phones are often off
+
+** push notes do not reach
+
+** touch screens are easer to use than laptops
+
+* gestures unintuitive
+
+** buttons are much better
+
+* invisible elements are trouble
+
+>>>>
+
+* wizard-style
+
+* replace select-tags with options groups
+
+* make pressable things distinct, obvious, labelled (glowing over flatui)
+
+* combine icons with labels
+
+* confirmation, warning dialogs for destructive actions
+
+* Flatui controls is disturbing for african user (NO ANIMATION THERE)
+
+* Animation only for screen transition
+
+* Keep UI consistent
+
+* (Make it fun) (yeah...)
+
+* Message "youve made smth correct"
+
+* Steal. Borrow. Just search and use
+
+* Test on lowend devices
+
+* Collect insights from local tecs
+
+--- Be curious, have empathy
+
+
+""The next billion"" as a future of the internet
+
